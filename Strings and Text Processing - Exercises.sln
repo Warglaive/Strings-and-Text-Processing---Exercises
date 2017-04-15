@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Placeholders", "01. Pla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. JSON Stringify", "02. JSON Stringify\02. JSON Stringify.csproj", "{A83E3031-4D84-47D0-AB4A-542B9A2821B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. JSON Parse", "03. JSON Parse\03. JSON Parse.csproj", "{D0539568-2DAB-413E-AA13-5AED413F8F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A83E3031-4D84-47D0-AB4A-542B9A2821B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A83E3031-4D84-47D0-AB4A-542B9A2821B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A83E3031-4D84-47D0-AB4A-542B9A2821B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0539568-2DAB-413E-AA13-5AED413F8F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0539568-2DAB-413E-AA13-5AED413F8F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0539568-2DAB-413E-AA13-5AED413F8F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0539568-2DAB-413E-AA13-5AED413F8F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
