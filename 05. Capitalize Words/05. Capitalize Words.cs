@@ -1,17 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _05.Capitalize_Words
 {
-   public class Program
+    public class Program
     {
-       public static void Main()
+        public static void Main()
         {
             var sentence = Console.ReadLine();
-            while (sentence!="end")
+            while (sentence != "end")
             {
                 var result = new List<string>();
                 var token = sentence.ToLower()

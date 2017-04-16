@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sentence Split", "04. S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Capitalize Words", "05. Capitalize Words\05. Capitalize Words.csproj", "{7901C434-3337-44D3-9D58-F38AEC2B02E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azsumboty", "azsumboty\azsumboty.csproj", "{08CE8277-9BCB-4636-ABB5-26247907A12A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{7901C434-3337-44D3-9D58-F38AEC2B02E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7901C434-3337-44D3-9D58-F38AEC2B02E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7901C434-3337-44D3-9D58-F38AEC2B02E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{08CE8277-9BCB-4636-ABB5-26247907A12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08CE8277-9BCB-4636-ABB5-26247907A12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08CE8277-9BCB-4636-ABB5-26247907A12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08CE8277-9BCB-4636-ABB5-26247907A12A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
